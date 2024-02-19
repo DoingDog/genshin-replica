@@ -25,7 +25,7 @@ document.querySelector<HTMLDivElement>("#app")!.innerHTML = /* html */ `
         </div>
       </div>
     </div>
-    <div class="disclaimer">
+    <div class="disclaimer" style="display: none;">
       <p>免责声明：</p>
       <p>
         本网站是一个纯粹的技术示例，旨在展示和分享我们的技术能力。网站的设计和内容受到《原神》的启发，并尽可能地复制了《原神》的登录界面。我们对此表示敬意，并强调这个项目不是官方的《原神》产品，也没有与《原神》或其母公司miHoYo有任何关联。
